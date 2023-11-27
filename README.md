@@ -2,6 +2,18 @@
 
 This Flutter application is a tutorial demonstrating the usage of Bloc architecture in combination with the [Random User Generator API](https://randomuser.me) to fetch and display a list of random users. The tutorial is part of a larger programming series and will be uploaded to the [Faradars website](https://faradars.org).
 
+## Images 
+
+Random User Bloc Code 
+ 
+![Random User Bloc Code Image](Random_User_Bloc_Code.png)
+
+Project UI
+
+![Project UI Image](Random_User_UI_HomePage.png)
+![Project UI Image](Random_User_UI_Result_LoadingState.png)
+![Project UI Image](Random_User_UI_Result_SuccessState.png)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
