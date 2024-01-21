@@ -1,6 +1,6 @@
 # Flutter Bloc Tutorial App - Random Users List
 
-This Flutter application is a tutorial demonstrating the usage of Bloc architecture in combination with the [Random User Generator API](https://randomuser.me) to fetch and display a list of random users. The tutorial is part of a larger programming series and will be uploaded to the [Faradars website](https://faradars.org).
+This Flutter application is a tutorial demonstrating the usage of Bloc architecture in combination with the [Random User Generator API](https://randomuser.me) to fetch and display a list of random users. The tutorial is part of a larger Flutter programming series that is accessible from [Faradars Bloc Tutorial]([https://faradars.org](https://faradars.org/courses/bloc-architecture-in-flutter-fvflt305).
 
 ## Table of Contents
 
